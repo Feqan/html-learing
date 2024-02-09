@@ -2,4 +2,11 @@
     max-width: 800px;
     margin: 10px auto;
     padding: 12px;
+    background-color: blueviolet;
+}
+h1{
+    background-color: red ;
+    color: #fff;
+    padding: 12px;
+    text-align: center;
 }
